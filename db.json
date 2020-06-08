@@ -1,0 +1,25 @@
+{
+    "users" : [
+        {
+            "id": 1,
+            "nama": "Mira",
+            "alamat": "Banjaran",
+            "umur": 22,
+            "nohp": "08997722"
+        },
+        {
+            "id": 2,
+            "nama": "Shinta",
+            "alamat": "Cicaheum",
+            "umur": 22,
+            "nohp": "008899772"
+        },
+        {
+            "id": 3,
+            "nama": "Boy",
+            "alamat": "Jakarta",
+            "umur": 19,
+            "nohp": "008876552"
+        }
+    ]
+}
